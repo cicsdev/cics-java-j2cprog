@@ -1,3 +1,4 @@
+/* Licensed Materials - Property of IBM                                   */
 package com.ibm.cicsdev.bean;
 
 import java.beans.BeanInfo;
