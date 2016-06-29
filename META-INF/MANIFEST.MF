@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: J2ctest
+Bundle-SymbolicName: com.ibm.cicsdev.j2ctest
+Bundle-Version: 1.0.0
+Bundle-Vendor: IBM
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+CICS-MainClass: com.ibm.cicsdev.j2ctest.J2Cprog
+Import-Package: com.ibm.cics.server;version="[1.300.0,2.0.0)",
+ com.ibm.etools.marshall,
+ com.ibm.etools.marshall.util,
+ javax.resource.cci
