@@ -14,7 +14,6 @@ The sample class J2Cprog can be added to a OSGi plug-in project and deployed int
 
 ## Reference
 
-
-* More information about using this sample can be found at the following [CICS developer center article](https://developer.ibm.com/cics/2016/06/29/java-cics-using-rational-j2c/)
+* More information about this sample can be found in the accompanying tutorial [Generating Java Records from COBOL with Rational J2C Tools](blog.md)
 
 * To download the COBOL EDUPGM sample see this [CICSDev Git repository](https://github.com/cicsdev/cics-java-jzosprog)
