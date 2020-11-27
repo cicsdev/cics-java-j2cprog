@@ -52,7 +52,7 @@ installation process, as this is not selected by default. It can be
 found under the **Enterprise developer tools -\> Java EE Connector -\>
 J2C** install option as shown below.
 
-![Installation Manager Feature Install](blog-graphics/Install.png)
+![Installation Manager Feature Install](blog-graphics/Install1.png)
 
 ### 2. Running the J2C record importer
 
