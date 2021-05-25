@@ -29,7 +29,7 @@ in CICS.
 > **Note:** an alternative solution to J2C is to use the IBM Record
 Generator for Java which supports COBOL and Assembler and is described
 further in this tutorial [Building Java records from
-COBOL with the IBM Record Generator for Java](https://github.com/cicsdev/cics-java-recgen/blob/master/blog.md).
+COBOL with the IBM Record Generator for Java](https://github.com/cicsdev/cics-java-recgen/blob/main/blog.md).
 
 The J2C tooling is now also available in IBM Developer for z/OS Enterprise Edition v14.
 For more details, see [https://www.ibm.com/support/pages/node/713179](https://www.ibm.com/support/pages/node/713179).
