@@ -4,8 +4,11 @@ Sample CICS Java program to use a J2C generated data binding to map a COMMAREA f
 
 ## Pre-reqs
 
-* CICS TS V4.2 or later
-* J2C tools provided with Rational Applicaton Developer or IBM Developer for z Systems Enterprise Edition
+* CICS TS V5.4 or later
+* Java SE 1.8 on the z/OS system
+* Java SE 1.8 on the workstation
+* J2C tools provided with Rational Applicaton Developer or IBM Developer for z/OS Enterprise Edition
+* Eclipse with the IBM CICS SDK for Java EE, Jakarta EE and Liberty, or any IDE that supports usage of the Maven Central artifact [com.ibm.cics:com.ibm.cics.server.](https://search.maven.org/artifact/com.ibm.cics/com.ibm.cics.server)
 
 ## Configuration
 
